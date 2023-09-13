@@ -1,5 +1,5 @@
-# _Bank App_
-### _Bank App allows users to perform basic banking transactions._
+# _Pig Dice_
+### _Pig Dice contains pieces of JavaScript code that sets up a simple dice game using HTML, CSS, and jQuery. The code initializes the game, handles dice rolling, player switching, and winning conditions._
 
 ## Technology used
 * _GIT_
@@ -24,4 +24,4 @@
 * _Report any suspected security problem to the contact above._
 
 ## Notice
-Bank App contains pieces of source code that is under MIT. This notice is included here to comply with the distribution terms.
+Pig Dice contains pieces of source code that is under MIT. This notice is included here to comply with the distribution terms.
