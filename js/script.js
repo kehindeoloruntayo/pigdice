@@ -44,7 +44,7 @@ $(document).ready(function () {
     if (playing) {
       const dice = Math.trunc(Math.random() * 6) + 1;
       diceImg.removeClass('hidden');
-      diceImg.attr('src', `/img/dice-${dice}.png`);
+      diceImg.attr('src', `./img/dice-${dice}.png`);
       if (dice !== 1) {
         currentScore += dice;
         $(`#current--${activePlayer}`).text(currentScore);
